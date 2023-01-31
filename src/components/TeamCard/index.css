@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.teamCard {
+  width: 80px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.team-title {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  font-weight: 600;
+  color: #ffffff;
+  text-align: center;
+}
+
+.item-container {
+  display: flex;
+  list-style-type: none;
+  background-color: hsla(0, 7%, 68%, 0.432);
+  width: 310px;
+  margin: 8px;
+  padding: 12px;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid #475569;
+  border-radius: 8px;
+}
